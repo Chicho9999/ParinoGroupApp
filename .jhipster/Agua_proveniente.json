@@ -1,0 +1,16 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "descripcion",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        }
+    ],
+    "changelogDate": "20170212021017",
+    "dto": "mapstruct",
+    "service": "serviceImpl",
+    "entityTableName": "agua_proveniente",
+    "pagination": "no"
+}
